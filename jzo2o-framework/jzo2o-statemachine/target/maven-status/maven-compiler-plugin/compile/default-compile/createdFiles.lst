@@ -1,0 +1,16 @@
+com\jzo2o\statemachine\model\StatePersister$StatePersisterBuilder.class
+com\jzo2o\statemachine\snapshot\BizSnapshotServiceImpl.class
+com\jzo2o\statemachine\persist\StateMachinePersister.class
+com\jzo2o\statemachine\core\StateMachineSnapshot.class
+com\jzo2o\statemachine\persist\StateMachinePersisterImpl.class
+com\jzo2o\statemachine\mapper\StateMachineMapper.class
+com\jzo2o\statemachine\mapper\BizSnapshotMapper.class
+com\jzo2o\statemachine\AbstractStateMachine.class
+com\jzo2o\statemachine\core\StatusChangeHandler.class
+com\jzo2o\statemachine\config\StateConfiguration.class
+com\jzo2o\statemachine\model\BizSnapshot$BizSnapshotBuilder.class
+com\jzo2o\statemachine\core\StatusChangeEvent.class
+com\jzo2o\statemachine\model\BizSnapshot.class
+com\jzo2o\statemachine\core\StatusDefine.class
+com\jzo2o\statemachine\model\StatePersister.class
+com\jzo2o\statemachine\snapshot\BizSnapshotService.class

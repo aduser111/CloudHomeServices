@@ -1,0 +1,7 @@
+com\jzo2o\canal\core\CanalDataHandler.class
+com\jzo2o\canal\model\CanalMqInfo.class
+com\jzo2o\canal\constants\FieldConstants.class
+com\jzo2o\canal\constants\OperateType.class
+com\jzo2o\canal\model\dto\CanalBaseDTO.class
+com\jzo2o\canal\listeners\AbstractCanalRabbitMqMsgListener.class
+com\jzo2o\canal\model\dto\CanalBaseDTO$CanalBaseDTOBuilder.class

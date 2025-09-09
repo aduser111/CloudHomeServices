@@ -1,0 +1,14 @@
+com\jzo2o\es\utils\TermUtils.class
+com\jzo2o\es\constants\FieldConstants.class
+com\jzo2o\es\utils\SearchResponseUtils$Convert.class
+com\jzo2o\es\core\operations\IndexOperations.class
+com\jzo2o\es\utils\DocumentUtils.class
+com\jzo2o\es\properties\EsProperties.class
+com\jzo2o\es\core\operations\DefaultDocumentOperations.class
+com\jzo2o\es\utils\SearchResponseUtils.class
+com\jzo2o\es\config\EsConfiguration.class
+com\jzo2o\es\core\ElasticSearchTemplate.class
+com\jzo2o\es\model\query\EsPageQuery.class
+com\jzo2o\es\core\operations\DefaultIndexOperations.class
+com\jzo2o\es\core\operations\DocumentOperations.class
+com\jzo2o\es\core\impl\ElasticSearchTemplateImpl.class

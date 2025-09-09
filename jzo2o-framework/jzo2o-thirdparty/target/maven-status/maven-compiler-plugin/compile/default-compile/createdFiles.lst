@@ -1,0 +1,12 @@
+com\jzo2o\thirdparty\core\wechat\WechatService.class
+com\jzo2o\thirdparty\tencent\WechatServiceImpl.class
+com\jzo2o\thirdparty\amap\properties\AmapProperties.class
+com\jzo2o\thirdparty\amap\AmapMapServiceImpl.class
+com\jzo2o\thirdparty\core\map\MapService.class
+com\jzo2o\thirdparty\core\storage\StorageService.class
+com\jzo2o\thirdparty\config\AutoConfig.class
+com\jzo2o\thirdparty\tencent\properties\WechatProperties.class
+com\jzo2o\thirdparty\dto\MapLocationDTO$MapLocationDTOBuilder.class
+com\jzo2o\thirdparty\dto\MapLocationDTO.class
+com\jzo2o\thirdparty\ali\AliOssStorageServiceImpl.class
+com\jzo2o\thirdparty\ali\properties\AliOssProperties.class

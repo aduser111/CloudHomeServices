@@ -1,0 +1,16 @@
+com\jzo2o\rabbitmq\dao\FailMsgDao.class
+com\jzo2o\rabbitmq\plugins\RabbitMqResender.class
+com\jzo2o\rabbitmq\plugins\RabbitMqListenableFutureCallback$RabbitMqListenableFutureCallbackBuilder.class
+com\jzo2o\rabbitmq\domain\FailMsg$FailMsgBuilder.class
+com\jzo2o\rabbitmq\plugins\RabbitMqListenableFutureCallback.class
+com\jzo2o\rabbitmq\dao\impl\FailMsgDaoImpl.class
+com\jzo2o\rabbitmq\properties\RabbitmqProperties$Error.class
+com\jzo2o\rabbitmq\domain\FailMsg.class
+com\jzo2o\rabbitmq\properties\RabbitmqProperties.class
+com\jzo2o\rabbitmq\config\RabbitMqConfiguration$1.class
+com\jzo2o\rabbitmq\config\RabbitMqConfiguration.class
+com\jzo2o\rabbitmq\plugins\ErrorMessageRecoverer.class
+com\jzo2o\rabbitmq\plugins\DelayMessagePostProcessor.class
+com\jzo2o\rabbitmq\dao\mapper\FailMsgMapper.class
+com\jzo2o\rabbitmq\domain\ErrorRabbitMqMessage.class
+com\jzo2o\rabbitmq\client\RabbitClient.class
